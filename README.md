@@ -20,6 +20,7 @@ Press F5 to build and run the application.
 
 🛠️ Built With
 C#
+
 Windows Forms (.NET)
 
 🇹🇷 Türkçe 
@@ -41,4 +42,5 @@ F5 tuşuna basarak uygulamayı derleyip çalıştırabilirsiniz.
 
 🛠️ Kullanılan Teknolojiler
 C#
+
 Windows Forms (.NET)
